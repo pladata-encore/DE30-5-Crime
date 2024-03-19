@@ -29,7 +29,29 @@ create database [database명];
 
 ![4](https://github.com/pladata-encore/DE30-5-Crime/assets/158540157/16e36851-7a46-47aa-b462-02d5a0b3ab56)
 
-:
+: table 생성 확인
+
+DISCRIBE [table명];
 
 ![5](https://github.com/pladata-encore/DE30-5-Crime/assets/158540157/0a66f6cb-05b3-44e2-9246-f72bfdda2176)
+
+: 
+
+= 기존버전
+sqoop export \
+--connect jdbc:mysql://mysql_host:port/database \
+--username your_usermame \
+--password password \
+--table target_table \
+--export-dir /user/hive/source \
+
+
+= 활용버전
+sqoop export \
+--connect jdbc:mysql://localhost:3306/crime \
+--username root \
+--password T@chmaki87 \
+--table cities \
+--export-dir /user/root/crime \
+
 ![6](https://github.com/pladata-encore/DE30-5-Crime/assets/158540157/81be3d01-0a99-404b-88fc-e7da33714149)
