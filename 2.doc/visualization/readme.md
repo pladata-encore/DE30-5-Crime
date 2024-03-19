@@ -61,6 +61,7 @@
 ![image](https://github.com/pladata-encore/DE30-5-Crime/assets/163955122/f8e34bdc-44d5-46d1-941a-981e4d7a3151)
 너무 안보이고 어떤 수치인지도 명확하지 않음\
 ![image](https://github.com/pladata-encore/DE30-5-Crime/assets/163955122/4a148ebb-27f4-4cba-8b50-5fb213a03163)
+
 지도그래프와 같이 명확하고 차가움과 위험함을 표현하는 색감까지 좋아서 채택!\
 
 \
