@@ -13,7 +13,7 @@
 ![스크린샷 2024-03-19 115448](https://github.com/pladata-encore/DE30-5-Crime/assets/163955122/d1ba7fe3-5ff8-4a38-9530-405400369718)
 
 잘 가져온건지 파일 시각화 해보기\
-![image](https://github.com/pladata-encore/DE30-5-Crime/assets/163955122/531799b5-6055-4efa-85c2-9ad8a77bfc60)
+![image](https://github.com/pladata-encore/DE30-5-Crime/assets/163955122/1ecb127d-b0b9-4987-b2f0-1ce773df51a1)
 
 우리 데이터를 대입하기 위해 지도 그래프 안의 내용을 불러들어옴\
 #그러나 한글이 꺠짐 코드에 'cp949'를 넣어서 불어옴\
