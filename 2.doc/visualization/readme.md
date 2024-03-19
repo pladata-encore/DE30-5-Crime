@@ -1,5 +1,5 @@
 <파이썬 참고>
-!pip install dbfread #처음 다운받은 지도 그래프의 파일 형식을 불러오기위해 설정함
+!pip install dbfread #처음 다운받은 지도 그래프의 파일 형식을 불러오기위해 설정함\
 !sudo apt-get install -y fonts-nanum #한글을 사용하기 위한 폰트 설
 !sudo fc-cache -fv #새로 설치된 폰트를 적용하기 위해 캐시를 갱신
 !rm ~/.cache/matplotlib -rf # 이전에 캐시한 폰트 설정 등의 정보를 제거
