@@ -9,7 +9,7 @@
 
 서비스 내용 : 각 지역의 범죄율을 시각화를 통한 심각성을 인지 및 예방 의식 고양
 
-프로젝트 목표 : 수업시간에 배운 python, Linux, mysql, hive, hadoop 프로그램 성능, 역할 이해 등을 활용하여 데이터 이동 연관성 이해
+프로젝트 목표 : 수업시간에 배운 python, Linux, mysql, hive, hadoop 프로그램 역할을 이해하고 성능 등을 활용하여 프로그램 간 데이터 이동 연관성 이해
 
 기술스택 :
 <img src="https://img.shields.io/badge/linux-FCC624?style=for-the-badge&logo=linux&logoColor=black">
