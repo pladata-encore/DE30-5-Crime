@@ -72,6 +72,6 @@
 ![image](https://github.com/pladata-encore/DE30-5-Crime/assets/163955122/27bbf80c-a34d-431e-bdf1-599cd1a263e7)
 ![image](https://github.com/pladata-encore/DE30-5-Crime/assets/163955122/0ae0aff5-9f35-43dd-b273-e829f718c76e)
 
-가장 많은 양의 경기도와 서울만 구현\
+가장 많은 양의 경기도와 서울만 구현
 
 총 범죄량과 다르게 서울은 안보범죄를 경기도는 환경범죄가 많다는 것을 알 수 있다.
