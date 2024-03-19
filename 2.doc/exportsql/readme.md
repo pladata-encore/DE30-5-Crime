@@ -11,15 +11,11 @@ table 이름 : cities
 
 : MySQL 접속
 
-mysql -u root -p
-
 mysql -u [경로] -p
 
 ![2](https://github.com/pladata-encore/DE30-5-Crime/assets/158540157/914ed195-bb56-40d3-a724-75a667b9cb0b)
 
 : mysql database 생성
-
-create database crime;
 
 create database [database명];
 
