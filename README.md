@@ -1,5 +1,5 @@
 
-![images](https://github.com/pladata-encore/DE30-5-Crime/assets/163955122/520fdde6-7e5a-407c-a2f0-b2a9ea3506ae)![20240113_W6nJMj](https://github.com/pladata-encore/DE30-5-Crime/assets/163955122/545cc09f-3643-4068-89f0-04afb7625a13)
+![20240113_W6nJMj](https://github.com/pladata-encore/DE30-5-Crime/assets/163955122/545cc09f-3643-4068-89f0-04afb7625a13)
 
 
 ### 팀원 : 이석희, 김시환, 서유진, 이선경, 김희수
