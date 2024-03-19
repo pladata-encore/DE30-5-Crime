@@ -48,11 +48,11 @@ sqoop export \
 
 ![6](https://github.com/pladata-encore/DE30-5-Crime/assets/158540157/81be3d01-0a99-404b-88fc-e7da33714149)
 
-mysql -u [계정] -p            (다시 mysql에 접속)
+mysql -u [계정] -p            \(다시 mysql에 접속)
 
-use [database명];             (database에 들어가서)
+use [database명];             \(database에 들어가서)
 
-select * from [table명];      (table에 수치 제대로 들어갔는지 확인)
+select * from [table명];      \(table에 수치 제대로 들어갔는지 확인)
 
 
 
