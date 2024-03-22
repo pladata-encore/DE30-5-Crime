@@ -57,4 +57,6 @@ group by 를 이용해 확인해보면
 
 **파이썬에서 데이터를 불러와서 분석 및 시각화**
 
+![image](https://github.com/pladata-encore/DE30-5-Crime/assets/163943356/319f42a8-dd6f-4be7-85e8-91a7d973516e)
+데이터들을 파이썬에서 시각화하였다.
 
