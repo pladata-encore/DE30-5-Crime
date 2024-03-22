@@ -22,3 +22,32 @@
 <img src="https://img.shields.io/badge/apachehive-FDEE21?style=for-the-badge&logo=apachehive&logoColor=black">
 <img src="https://img.shields.io/badge/apachehadoop-66CCFF?style=for-the-badge&logo=apachehadoop&logoColor=white">
 <img src="https://img.shields.io/badge/pandas-150458?style=for-the-badge&logo=pandas&logoColor=white">
+
+**목표** 
+- 수업 때 배운 내용들을 활용해서 파일을 분석해 시각화 하기
+
+**목차**
+1. 데이터 사용을 위해 jupyter lab을 이용한 간단한 전처리
+2. 데이터를 하둡에 적재 후 하이브에서 불러오기
+3. 하이브 데이터를 mysql로 export
+4. mysql bench를 리눅스와 연동 후 테이블 체크
+5. 파이썬에서 데이터를 불러와서 분석 및 시각화
+
+**데이터 사용을 위해 jupyter lab을 이용한 간단한 전처리**
+공공데이터포탈에서 받아온 csv 자료를 python의 pandas를 사용해 데이터 프레임 형태로 만들기
+![image](https://github.com/pladata-encore/DE30-5-Crime/assets/163943356/c33ce21e-14d2-4438-aed1-ce1c00cdd7d5)
+
+**데이터를 하둡에 적재 후 하이브에서 불러오기**
+하둡에 넣어 PATH를 이용해 외부테이블로 데이터를 불러온다
+![image](https://github.com/pladata-encore/DE30-5-Crime/assets/163943356/f8ad7733-923e-4adf-a0bd-0d6e6bed98db)
+group by 를 이용해 확인해보면
+![image](https://github.com/pladata-encore/DE30-5-Crime/assets/163943356/95251751-47c9-486b-b732-2da018ccc3c5)
+
+**하이브 데이터를 mysql로 export**
+![image](https://github.com/pladata-encore/DE30-5-Crime/assets/163943356/e7bc013d-e700-4bd2-b10b-8948785ea31d)
+
+**mysql bench를 리눅스와 연동 후 테이블 체크**
+![image](https://github.com/pladata-encore/DE30-5-Crime/assets/163943356/e32a9872-b1f4-4184-9048-304b57f21baa)
+
+**파이썬에서 데이터를 불러와서 분석 및 시각화**
+
